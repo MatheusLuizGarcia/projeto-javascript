@@ -1,0 +1,25 @@
+@import url("../css/style.css");
+
+form{
+    width:30%;
+    text-align: center;
+    margin-top: calc(50vh - 100px);
+    margin-left: calc(50vw - 300px);
+    margin-right: auto;
+}
+
+.input{
+    padding: 15px 0px 0px 15px;
+}
+
+.btn-login{
+    padding: 20px 0px 10px 20px;
+}
+
+.btn-login button{
+    padding: 5px;
+    background-color: var(--btn);
+    color: black;
+    font-weight: 400;
+}
+

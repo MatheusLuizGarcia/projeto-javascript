@@ -1,0 +1,40 @@
+@import url("../css/style.css");
+
+#info{
+    width: max-content;
+    margin-top: 40px;
+    margin-left: calc(50vw - 150px);
+    padding: 2%;
+    text-align: center;
+    border: 2px solid var(--btn);
+}
+
+#nome{
+    font-size: 1.4em;
+    font-weight: 300;
+}
+
+#nome, #seguidores{
+    padding: 5px;
+}
+
+#foto{
+    width: 250px;
+    border-radius: 50%;
+}
+
+#titleNomeRepos{
+    text-align: center;
+    color: var(--btn);
+    font-size: 3em;
+    font-weight: 300;
+    padding-top: 40px;
+}
+
+.boxRep{
+    display: inline-block;
+    width: 250px;
+    padding: 1%;
+    margin: 3%;
+    border: 2px solid var(--color);
+}

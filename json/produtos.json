@@ -1,0 +1,44 @@
+[
+    {
+        "produto": "Produto 01",
+        "preço": 100,
+        "descricao": "Loren ipsum!",
+        "em_estoque": false,
+        "img": "assents/imgs/img0002.jpg"
+    },
+    {
+        "produto": "Produto 02",
+        "preço": 3.65,
+        "descricao": "Loren ipsum! Not ipusum",
+        "em_estoque": true,
+        "img": "assents/imgs/img0001.jpg"
+    },
+    {
+        "produto": "Produto 03",
+        "preço": 0.90,
+        "descricao": "Loren ipsum! Not ipusum! Outro ispum",
+        "em_estoque": true,
+        "img": "assents/imgs/img0003.jpg"
+    },
+    {
+        "produto": "Produto 04",
+        "preço": 100,
+        "descricao": "Loren ipsum!",
+        "em_estoque": false,
+        "img": "assents/imgs/img0002.jpg"
+    },
+    {
+        "produto": "Produto 05",
+        "preço": 3.65,
+        "descricao": "Loren ipsum! Not ipusum",
+        "em_estoque": true,
+        "img": "assents/imgs/img0001.jpg"
+    },
+    {
+        "produto": "Produto 06",
+        "preço": 0.90,
+        "descricao": "Loren ipsum! Not ipusum! Outro ispum",
+        "em_estoque": true,
+        "img": "assents/imgs/img0003.jpg"
+    }
+]
